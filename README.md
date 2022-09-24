@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheBackupDrive
-- 👀 I’m interested in unhealthy amounts of Magic: The Gathering, as well as Warhammer 40,000.
-- 🌱 I’m currently learning how to program on the front end.
+- 👀 I’m interested in varying amounts of Magicc: The Gathering, Warhammer 40k, and Large amounts of D&D
+- 🌱 I’m currently going through a Software Development Bootcamp with NSCU. 
 
 <!---
 TheBackupDrive/TheBackupDrive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
